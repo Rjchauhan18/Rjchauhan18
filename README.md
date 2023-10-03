@@ -9,28 +9,24 @@ Rahul Chauhan</a></h1>
   
 </a>
 
-- 🔭 I’m currently studying at <a href="https://www.bennett.edu.in/" target="blank">Adani Institute Of Infrastructer Engineering</a>
+- 🔭 I’m currently studying at <a href="#" target="blank">Adani Institute Of Infrastructer Engineering</a>
 
-- 🌱 I’m currently learning about Artificial Intelligent and Machine Learning .
+- 🌱 I’m currently learning about Artificial Intelligence and Machine Learning .
 
 - 📫 How to reach me **rjchauhan5000000@gmail.com**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
+
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/chirag-aggarwal-066b97248/">
-   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Rjchauhan18">
-  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19668235/chiragagg5k">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/chiragagg5k/">
-   <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-  <a style="margin-left: 10px;" target="_blank" https://twitter.com/ChiragAgg5k">
-   <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCXp47VbC0wQ_8pBKXwx-f2w">
-    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
-      </div>
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/rahul-chauhan-3b3798215/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+            <a style="margin-left: 10px;" target="_blank" href="https://github.com/Rjchauhan18">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/20192534/rahul-chauhan">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
+        </a>
+    </div>
 </p>
 <br />
 <br />
