@@ -9,7 +9,7 @@ Rahul Chauhan</a></h1>
   
 </a>
 
-- 🔭 I’m currently studying at <a href="#" target="blank">Adani Institute Of Infrastructer Engineering</a>
+- 🔭 I’m currently studying at <a href="#" target="blank">Adani Institute Of Infrastructure Engineering</a>
 
 - 🌱 I’m currently learning about Artificial Intelligence and Machine Learning .
 
