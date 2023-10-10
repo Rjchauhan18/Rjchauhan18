@@ -35,9 +35,9 @@ Rahul Chauhan</a></h1>
 <h1 align="center">Github Stats⚡️</h1>
 
 
-[![Rjchauhan18's Github Stats](https://github-readme-stats.vercel.app/api?username=Rjchauhan18&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rjchauhan18&theme=radical&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)[![Rjchauhan18's Github Stats](https://github-readme-stats.vercel.app/api?username=Rjchauhan18&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rjchauhan18&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=Rjchauhan18&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rjchauhan18&theme=radical)](https://git.io/streak-stats)
 
 </div>
 <br />
