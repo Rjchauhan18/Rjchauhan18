@@ -52,15 +52,21 @@ const rahul = {
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ GitHub Stats, Streaks & Activity
 
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Rjchauhan18&show_icons=true&theme=tokyonight&border_radius=10" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjchauhan18&layout=compact&theme=tokyonight&border_radius=10" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=Rjchauhan18&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Streak" height=200px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rjchauhan18&show_icons=true&theme=tokyonight&border_radius=10"  alt="GitHub Activity Graph" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rjchauhan18&theme=tokyonight&border_radius=10" />
+  <img src="https://github.com/Rjchauhan18/Rjchauhan18/raw/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
 ---
@@ -73,11 +79,11 @@ const rahul = {
 
 ### ✨ Fun Extras
 
-<details>
-  <summary>📈 Weekly Coding Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@rahulchauhan&theme=radical&layout=compact" alt="Wakatime Stats (if configured)" />
-  </p>
+<details> 
+  <summary>🕒 Daily Time Breakdown</summary> 
+  <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rjchauhan18&theme=radical&layout=default&range=last_7_days" alt="WakaTime Daily Stats" /> 
+  </p> 
 </details>
 
 <details>
